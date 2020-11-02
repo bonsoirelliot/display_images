@@ -1,6 +1,6 @@
 # image_display
 
-A new Flutter project.
+Image displaying app.
 
 ## Getting Started
 
